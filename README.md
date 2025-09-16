@@ -190,5 +190,3 @@ classDiagram
     RecommendationSystem --> Patron : recommends to
     LibraryBranch --> LibraryServiceImpl : contains
 ```
-
-![Class Diagram](ClassDiagram.png)
